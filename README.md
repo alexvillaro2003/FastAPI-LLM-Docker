@@ -58,6 +58,18 @@ La app estará disponible en: http://localhost:8000.
 - **Género**: 🚀 Ciencia Ficción, 😂 Comedia, 🎭 Drama, 💖 Romance, 🧚‍♀️ Fantasía, 💥 Acción, 👻 Terror, ⚔️ Guerra, 🥊 Lucha.
 - **Cantidad**: Número de recomendaciones (máximo 6).
 
+## Librerías y Versiones 📚
+
+El proyecto utiliza las siguientes librerías:
+
+- **FastAPI**: `0.115.5`
+- **Pydantic**: `2.9.2`
+- **PyMySQL**: `1.1.1`
+- **python-dotenv**: `1.0.1`
+- **Uvicorn**: `0.32.1`
+- **LangChain**: `0.3.9`
+- **Huggingface Hub**: `0.26.3`
+
 ## Contribuciones 🤝
 
 ¡Si deseas contribuir, abre un _pull request_ o crea un _issue_!
