@@ -70,6 +70,10 @@ El proyecto utiliza las siguientes librerías:
 - **LangChain**: `0.3.9`
 - **Huggingface Hub**: `0.26.3`
 
+## Docker 🐋
+
+[Repositorio en Docker Hub](https://hub.docker.com/r/alexvillarreal/fastapi-aws-app)
+
 ## Contribuciones 🤝
 
 ¡Si deseas contribuir, abre un _pull request_ o crea un _issue_!
